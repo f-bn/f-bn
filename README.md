@@ -2,7 +2,7 @@
 
 Welcome to my profile :grinning:
 
-My name is Florian Bobin and i'm currently working at [**Worldline France**](https://fr.worldline.com/fr/home.html) as junior systems engineer.
+My name is **Florian Bobin** and i'm currently working at [**Worldline France**](https://fr.worldline.com/fr/home.html) as junior systems engineer.
 
 I am a passionate engineer mostly plays with the Linux operating system, love automating systems with Ansible, tinker things with some virtual machines and containers, and finally learn how databases works.
 
