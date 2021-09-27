@@ -1,10 +1,8 @@
-## Hello there 👋
-
-Welcome to my profile :grinning:
+### 👋 Hi there
 
 My name is **Florian Bobin** and i'm currently working at [**Worldline France**](https://fr.worldline.com/fr/home.html) as junior systems engineer.
 
-I am a passionate engineer mostly plays with the Linux operating system, love automating systems with Ansible, tinker things with some virtual machines and containers, and finally learn how databases works.
+I'm a passionate engineer mostly plays with the Linux operating system, love automating systems with Ansible, tinker things within virtual machines and containers and learn how databases works.
 
 <!--
 **ruskofd/ruskofd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
