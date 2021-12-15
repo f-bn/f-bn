@@ -1,8 +1,16 @@
-### 👋 Hi there
+## Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-My name is **Florian Bobin** and i'm currently working at [**Worldline France**](https://fr.worldline.com/fr/home.html) as junior systems engineer.
+I'm **Florian Bobin**, I live near Lille, France, currently working as junior systems and database engineer.
 
-I'm a passionate engineer mostly plays with the Linux operating system, love automating systems with Ansible, tinker things within virtual machines and containers and learn how databases works.
+### :floppy_disk: whoami
+
+* :construction_worker: Systems and database engineer (junior)
+* :office: Work at [Worldline France](https://fr.worldline.com/fr/home.html)
+* :gear: I'm working mostly with Linux, systemd, Ansible, QEMU/KVM, LXD and PostgreSQL
+* :tea: Tea lover
+* :musical_note: Music addict
+* :mailbox_with_mail: Reach me on [LinkedIn](https://www.linkedin.com/in/florian-bobin/) or [Twitter](https://twitter.com/ruskofd_)
+* :zap: fun fact : I *really* like systemd :hearts:
 
 <!--
 **ruskofd/ruskofd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
