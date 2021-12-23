@@ -2,7 +2,7 @@
 
 **Hello there !** :raising_hand:
 
-I'm **Florian Bobin**, I'm 24 yo, I live near Lille (France) and I'm currently working as junior systems and database engineer.
+I'm **Florian Bobin**, I am 24 years old, I live near Lille (France) and I'm currently working as junior systems and database engineer.
 
 ### :floppy_disk: cat .profile
 
