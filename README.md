@@ -6,7 +6,7 @@ I'm **Florian Bobin**, I live near Lille, France and I'm currently working as ju
 
 ### :computer: cat .profile
 
-* :construction_worker: *Passionate* systems and database engineer
+* :construction_worker: Systems and database engineer
 * :office: Work at [Worldline France](https://fr.worldline.com/fr/home.html)
 * :gear: I'm working mostly with Linux, playing with systemd, automating my work with Ansible, using some virtualization (QEMU/KVM) and some containers techs (LXD) but also databases such as PostgreSQL (and a spice of Greenplum DB at work)
 * :tea: Tea lover
