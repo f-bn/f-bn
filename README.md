@@ -1,15 +1,17 @@
-## Hello there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+### :floppy_disk: whoami
+
+**Hello there !** :smiley:
 
 I'm **Florian Bobin**, I live near Lille, France and I'm currently working as junior systems and database engineer.
 
-### :floppy_disk: whoami
+### :computer: cat .profile
 
-* :construction_worker: Systems and database engineer (junior)
+* :construction_worker: *Passionate* systems and database engineer
 * :office: Work at [Worldline France](https://fr.worldline.com/fr/home.html)
-* :gear: I'm working mostly with Linux, systemd, Ansible, QEMU/KVM, LXD and PostgreSQL
+* :gear: I'm working mostly with Linux, playing with systemd, automating my work with Ansible, using some virtualization (QEMU/KVM) and some containers techs (LXD) but also databases such as PostgreSQL (and a spice of Greenplum DB at work)
 * :tea: Tea lover
 * :musical_note: Music addict
-* :mailbox_with_mail: Reach me on [LinkedIn](https://www.linkedin.com/in/florian-bobin/) or [Twitter](https://twitter.com/ruskofd_)
+* :mailbox_with_mail: Reach me on [LinkedIn](https://www.linkedin.com/in/florian-bobin/)
 * :zap: fun fact : I *really* like systemd :hearts:
 
 <!--
