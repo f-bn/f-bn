@@ -13,7 +13,7 @@ I'm **Florian Bobin**, I am 25 years old, I live near Lille (France) and I'm cur
 * :headphones: Music addict
 * :computer: Small *homelaber* : I've got a custom server for learning labs, but also few network devices
 * :mailbox_with_mail: You can reach me on [LinkedIn](https://www.linkedin.com/in/florian-bobin/) and [Twitter](https://twitter.com/_fbnd)
-* :zap: fun fact : *btw I'm not using Arch*
+* :zap: fun fact : *I'm not using Arch btw*
 
 <!--
 **ruskofd/ruskofd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
