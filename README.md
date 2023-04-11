@@ -2,7 +2,7 @@
 
 **Hello there !** :raising_hand:
 
-I'm **Florian Bobin**, I am 26 years old, I'm currently living near Lille (France) and I'm currently working as a **Cloud Database Engineer** at [Adeo Services](https://www.adeo.com/).
+I'm **Florian Bobin**, I am 26 years old, I'm currently living near Lille (France) and working as **Cloud Database Engineer** at [Adeo Services](https://www.adeo.com/).
 
 ### :floppy_disk: cat .profile
 
