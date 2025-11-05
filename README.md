@@ -2,13 +2,13 @@
 
 **Hello there !** :raising_hand:
 
-I'm **Florian Bobin**, I am 28 years old, I'm currently living near Lille (France) and working as an aspiring **Full-Stack developer** (previously **Cloud Database Engineer**) at [ADEO](https://www.adeo.com/).
+I'm **Florian**, I am 28 years old, I'm currently living near Lille (France) and working as an aspiring **Python developer** at [ADEO](https://www.adeo.com/) (previously **Database Engineer**).
 
 ### :rocket: My profile
 
-* :construction_worker: Passionate system and database engineer, aspiring developer
-* :zap: I may have a *passion* in debugging undocumented systems and database setups everywhere I go (please no :sweat_smile:).
-* :computer: I work mostly with Linux operating systems and database engines such as [PostgreSQL](https://www.postgresql.org/) :heart:, [MongoDB](https://www.mongodb.com/) and [OpenSearch](https://opensearch.org/). I also love automating my work in every way possible and you can also find me tinkering *too much* with various softwares to break things because there is always something to learn.
+* :construction_worker: Passionate system and database engineer, now aspiring developer
+* :computer: I work mostly with Linux operating systems and database engines such as [PostgreSQL](https://www.postgresql.org/) :heart:, [MongoDB](https://www.mongodb.com/), [Valkey](https://valkey.io/), and [OpenSearch](https://opensearch.org/). I love automating my work in every way possible, you will probably find me tinkering *too much* with various softwares to break things (because there is always something to learn).
+* :zap: I may have a *passion* in debugging undocumented systems and database installations everywhere I go (please no :sweat_smile:).
 * :seedling: Currently learning **Python** and **Golang**
 * :tea: Tea lover and whisky amateur (always moderate drinking I promise :wink:)
 * :headphones: Music addict
