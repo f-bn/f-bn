@@ -2,7 +2,7 @@
 
 **Hello there !** :raising_hand:
 
-I'm **Florian**, I am 28 years old, I'm currently living near Lille (France) and working as an aspiring **Python developer** at [ADEO](https://www.adeo.com/) (previously **Database Engineer**).
+I'm **Florian**, I am 29 years old, I'm currently living near Lille (France) and working as an aspiring **Python developer** at [ADEO](https://www.adeo.com/) (previously **Database Engineer**).
 
 ### :rocket: My profile
 
