@@ -7,12 +7,12 @@ I'm **Florian**, I am 29 years old, I'm currently living near Lille (France) and
 ### :rocket: My profile
 
 * :construction_worker: Passionate system and database engineer, now aspiring developer
-* :computer: I work mostly with Linux operating systems and database engines such as [PostgreSQL](https://www.postgresql.org/) :heart:, [MongoDB](https://www.mongodb.com/), [Valkey](https://valkey.io/), and [OpenSearch](https://opensearch.org/). I love automating my work in every way possible, you will probably find me tinkering *too much* with various softwares to break things (because there is always something to learn).
-* :zap: I may have a *passion* in debugging undocumented systems and database installations everywhere I go (please no :sweat_smile:).
+* :computer: I work mostly with Linux operating systems and database engines such as [PostgreSQL](https://www.postgresql.org/) :heart: and [MongoDB](https://www.mongodb.com/) (also with a spice of [Valkey](https://valkey.io/) and [OpenSearch](https://opensearch.org/) in the past).
+* :zap: I love automating my work in every way possible, you will probably find me tinkering *too much* with various softwares to break things for the sake of it (because there is always something to learn). I may also have a *passion* in debugging undocumented infrastructure setups everywhere I go (please no :sweat_smile:).
 * :seedling: Currently learning **Python** and **Golang**
 * :tea: Tea lover and whisky amateur (always moderate drinking I promise :wink:)
 * :headphones: Music addict
-* :house: Homelaber (NAS and small custom server for my personal production)
+* :house: Homelaber (usual stuff with NAS and small mini-pc for hosting my favourite apps)
 * :mailbox_with_mail: You can reach me on [LinkedIn](https://www.linkedin.com/in/florian-bobin/) and [Twitter](https://twitter.com/fbn587)
 
 <!--
