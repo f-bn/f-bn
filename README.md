@@ -9,7 +9,7 @@ I'm **Florian**, I am 29 years old, I'm currently living near Lille (France) and
 * :construction_worker: Passionate system and database engineer
 * :computer: I work mostly with Linux operating systems and database engines such as [PostgreSQL](https://www.postgresql.org/) :heart: and [MongoDB](https://www.mongodb.com/) (also with a spice of [Redis](https://redis.io/)/[Valkey](https://valkey.io/) and [OpenSearch](https://opensearch.org/)).
 * :zap: I love automating my work in every way possible, you will probably find me tinkering *too much* with various softwares to break things for the sake of it (because there is always something to learn). I may also have a *passion* in debugging undocumented infrastructure setups everywhere I go (please no :sweat_smile:).
-* :seedling: Currently learning **Golang** and still practicing database stuff
+* :seedling: Currently learning [ClickHouse](https://clickhouse.com/) and getting a refresh on [Elastic](https://www.elastic.co) products, with a spice of Python and Golang on the side.
 * :tea: Tea lover and whisky amateur (always moderate drinking I promise :wink:)
 * :headphones: Music addict
 * :house: Homelaber (usual stuff with NAS and small mini-pc for hosting my favourite apps)
